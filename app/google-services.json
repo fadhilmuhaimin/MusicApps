@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769180003736",
+    "project_id": "musicapps-88164",
+    "storage_bucket": "musicapps-88164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769180003736:android:a59bb949c353e6da2e0fed",
+        "android_client_info": {
+          "package_name": "com.autodhil.musicapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769180003736-4dttiv5vie134viokmuonkmg1kma2ffe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autodhil.musicapps",
+            "certificate_hash": "415715ec6f873f8afc5edb6c33ba1d1082139961"
+          }
+        },
+        {
+          "client_id": "769180003736-stnq6fllkp06ua3ut550pa2doecsbd9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7RFxiUb9HQPFt6gm7ztzT1t8wZZngS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769180003736-stnq6fllkp06ua3ut550pa2doecsbd9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
